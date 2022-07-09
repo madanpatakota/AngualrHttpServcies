@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "body": "some comment updated",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Customers": [
+    {
+      "CustomerID": "1",
+      "CompanyName": "Taventupdatedupdatedupdatedupdatedupdatedupdated",
+      "ContactName": "Suryaupdatedupdatedupdatedupdatedupdatedupdated",
+      "Address": "BTMupdatedupdatedupdatedupdatedupdatedupdated",
+      "ContactTitle": "developerupdatedupdatedupdatedupdatedupdatedupdated",
+      "id": 1
+    },
+    {
+      "CustomerID": 2,
+      "CompanyName": "Globallogicupdated",
+      "ContactName": "0.6400452255311999Nameupdated",
+      "Address": "Marthalliupdated",
+      "ContactTitle": "develperupdated",
+      "id": 2
+    }
+  ]
+}
